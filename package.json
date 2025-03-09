@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mysql2": "^3.13.0"
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "server": "^1.0.41",
+    "sqlite3": "^5.1.7"
   }
 }
